@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dihr1XLj7Ec=",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Padawan985\\Downloads\\Velocity IDE Custom\\Velocity-User-Interface-main\\Velocity-User-Interface-main\\VelocityLite\\PawaLite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Padawan985\\.nuget\\packages\\microsoft.web.webview2\\1.0.3650.58\\microsoft.web.webview2.1.0.3650.58.nupkg.sha512",
+    "C:\\Users\\Padawan985\\.nuget\\packages\\xamlanimatedgif\\2.3.1\\xamlanimatedgif.2.3.1.nupkg.sha512",
+    "C:\\Users\\Padawan985\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.57\\microsoft.windows.sdk.net.ref.10.0.19041.57.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,7 @@
+[19:55:18] - Targeting 1 instance(s)
+[19:55:18] - Injecting into 18028...
+[19:55:19] - Injected into 18028
+[19:55:30] - Script executed on 1 client(s).
+[19:55:35] - Targeting 1 instance(s)
+[19:55:35] - Already injected into all target instances!
+[19:55:48] - Stopping Velocity API communication...
