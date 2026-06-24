@@ -1,0 +1,50 @@
+1. Information We Collect
+We only collect the minimum amount of data necessary to provide, secure, and improve our Software.
+
+a) Information You Provide Voluntarily
+Account/License Data: If you register an account or purchase a license key, we may collect your username, email address, and transaction details (excluding raw payment information, which is handled securely by third-party processors).
+
+Support Interactions: If you contact us via Discord or email, we collect the messages and account handles you use to reach out.
+
+b) Automatically Collected Information
+To prevent software abuse, piracy, and to ensure stability, the Software may automatically collect:
+
+IP Addresses: For license verification and rate-limiting to protect our infrastructure.
+
+Hardware HWID (Hardware ID): A unique, anonymized hash generated from your computer components. This is used solely to link your license to your device and prevent account sharing/exploit abuse.
+
+Crash Logs & Analytics: Anonymized technical data regarding Software crashes or errors to help us fix bugs.
+
+2. How We Use Your Information
+We use the collected information strictly for the following purposes:
+
+License Management: To verify that you own a valid license or key to use the Software.
+
+Security & Anti-Abuse: To detect and prevent cracking, unauthorized reverse-engineering, or DDoS attacks on our infrastructure.
+
+Software Improvement: To analyze crash logs and optimize the performance of the IDE/Executor.
+
+3. Data Sharing and Third-Party Services
+We do not sell, rent, or trade your personal data to third parties. We only share data with trusted third-party services necessary to operate our Software:
+
+Discord (OAuth2 / Webhooks): If you use Discord to log in or join our community, your public Discord profile information is handled according to Discord’s privacy policy.
+
+Hosting/Server Providers: Our servers (e.g., VPS, databases) may log your IP address temporarily for security reasons.
+
+4. Data Security
+We implement reasonable technical and organizational measures to protect your data from unauthorized access, loss, or alteration.
+
+Your HWID is hashed and cannot be used to identify you personally outside of our Software.
+
+We do not store password strings in plain text.
+
+5. Children's Privacy
+Our Software is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it immediately.
+
+6. Your Rights
+Depending on your location (such as the EU/UK under GDPR), you may have the right to access, correct, or request the deletion of the personal data we hold about you (e.g., your account or HWID link).
+
+To exercise these rights, please contact us through our official channels.
+
+7. Changes to this Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated "Last Updated" date. We encourage you to review this policy periodically.
